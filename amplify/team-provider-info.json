@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pixplore-dev-231613-authRole",
+      "UnauthRoleArn": "arn:aws:iam::046430716681:role/amplify-pixplore-dev-231613-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::046430716681:role/amplify-pixplore-dev-231613-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-pixplore-dev-231613-deployment",
+      "UnauthRoleName": "amplify-pixplore-dev-231613-unauthRole",
+      "StackName": "amplify-pixplore-dev-231613",
+      "StackId": "arn:aws:cloudformation:us-east-1:046430716681:stack/amplify-pixplore-dev-231613/c4f3c530-0251-11ed-87c2-0e4e6f0f2121",
+      "AmplifyAppId": "d1vhukh23bkht8"
+    },
+    "categories": {
+      "auth": {
+        "pixploreea8716ac": {}
+      }
+    }
+  }
+}
